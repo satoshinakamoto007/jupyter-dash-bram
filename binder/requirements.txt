@@ -4,3 +4,4 @@ jupyter_server_proxy
 pandas
 numpy
 jupyter-dash
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
