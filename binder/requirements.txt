@@ -4,3 +4,4 @@ jupyter_server_proxy
 pandas
 numpy
 jupyter-dash
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
