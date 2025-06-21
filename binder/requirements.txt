@@ -4,3 +4,4 @@ jupyter_server_proxy
 pandas
 numpy
 jupyter-dash
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
